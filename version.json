@@ -1,6 +1,6 @@
 {
-  "latestVersion": "0.0.2",
-  "minimumRequiredVersion": "0.0.2",
+  "latestVersion": "0.0.1",
+  "minimumRequiredVersion": "0.0.1",
   "apkUrl": "https://github.com/3FrotoDev/NuvexAnime/releases/download/v0.0.1/app-release.apk",
   "whatsNew": "Fix critical security vulnerability + performance improvements."
 }
