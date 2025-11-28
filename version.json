@@ -1,6 +1,6 @@
 {
-  "latestVersion": "0.0.1-alpha.2",
-  "minimumRequiredVersion": "0.0.1-alpha.2",
+  "latestVersion": "0.0.1-alpha.3",
+  "minimumRequiredVersion": "0.0.1-alpha.3",
   "apkUrl": "https://github.com/3FrotoDev/NuvexAnime/releases/download/v0.0.1-alpha.2/NuvexAnime-v0.0.1-alpha.2.apk",
-  "whatsNew": "Add anime list from anilist on the app"
+  "whatsNew": "Updated Home, Characters & Recommendations — overcame some challenges, with more to come!"
 }
